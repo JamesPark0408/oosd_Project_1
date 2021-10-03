@@ -3,3 +3,6 @@
 # Project:
 This project creates a mini game, practicing object-orientated language (JAVA)
 - Basic Academic Game Engine Library (Bagel) 
+
+# Controls:
+space - jump
